@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74724153-3cfd-489e-8e97-28ee5c301374" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Chris.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/block.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blockchain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blockchain.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/node_modules/block.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Information/block.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Information/block.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/block.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/block.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blockchain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/blockchain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blockchain.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/blockchain.test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,6 +21,7 @@
     <session id="1032580434">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -48,16 +42,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1703" />
+          <entry key="js" value="2251" />
           <entry key="json" value="16" />
-          <entry key="txt" value="243" />
+          <entry key="txt" value="546" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="16" />
-          <entry key="JavaScript" value="1703" />
-          <entry key="PLAIN_TEXT" value="243" />
+          <entry key="JavaScript" value="2251" />
+          <entry key="PLAIN_TEXT" value="546" />
         </counts>
       </usages-collector>
     </session>
@@ -67,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Information/block.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="250">
+              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -91,20 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blockchain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="692">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/blockchain.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="125">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -112,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/block.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-308">
-              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+            <state relative-caret-position="517">
+              <caret line="70" column="53" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -142,13 +136,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Information/block.txt" />
-        <option value="$PROJECT_DIR$/src/block.js" />
         <option value="$PROJECT_DIR$/src/node_modules/block.test.js" />
         <option value="$PROJECT_DIR$/src/package.json" />
         <option value="$PROJECT_DIR$/src/block.test.js" />
-        <option value="$PROJECT_DIR$/src/blockchain.test.js" />
+        <option value="$PROJECT_DIR$/Information/block.txt" />
+        <option value="$PROJECT_DIR$/src/block.js" />
         <option value="$PROJECT_DIR$/src/blockchain.js" />
+        <option value="$PROJECT_DIR$/src/blockchain.test.js" />
       </list>
     </option>
   </component>
@@ -170,8 +164,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="238" />
-    <option name="y" value="100" />
+    <option name="x" value="841" />
+    <option name="y" value="141" />
     <option name="width" value="1434" />
     <option name="height" value="1350" />
   </component>
@@ -293,7 +287,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554518507481</updated>
-      <workItem from="1554518509282" duration="3633000" />
+      <workItem from="1554518509282" duration="4970000" />
     </task>
     <servers />
   </component>
@@ -321,15 +315,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3633000" />
+    <option name="totallyTimeSpent" value="4970000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1040" y="188" width="1508" height="1350" extended-state="0" />
-    <editor active="true" />
+    <frame x="841" y="141" width="1434" height="1350" extended-state="0" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24965987" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15687679" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
@@ -337,7 +330,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32976973" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32976973" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,13 +347,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Information/block.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/node_modules/block.test.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -368,13 +354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/block.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -392,17 +371,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blockchain.test.js">
+    <entry file="file://$PROJECT_DIR$/Information/block.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        <state relative-caret-position="250">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="70" column="53" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blockchain.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="692">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blockchain.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

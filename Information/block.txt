@@ -18,5 +18,6 @@ and performance. The hash is used for block validation.
 Proof -
 Any system can be a contributor so long as they have a running updated copy of the
 blockchain, and to the Proof of Work needed to verify and add a block to the chain.
+The blockchain with the longest chain is considered correct.
 
 This block chain relies on the proof of work algorithm.
