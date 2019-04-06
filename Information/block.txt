@@ -1,0 +1,10 @@
+Information for the block chain.
+
+Blocks consist of four fundamental pieces of data.
+
+1. Timestamp -- To record when they were created. Created with a Date object
+2. LastHash -- Hash of the block that came before it. Unique value for a block.
+3. Hash for the current block, based on the current blocks own data.
+4. The data to store inside the block.
+
+A Genesis block is needed to act as the very first block in the blockchain.
