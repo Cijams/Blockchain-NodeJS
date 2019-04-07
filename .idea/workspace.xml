@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74724153-3cfd-489e-8e97-28ee5c301374" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Information/block.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Information/block.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blockchain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/blockchain.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blockchain.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/blockchain.test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,7 +39,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="3548" />
+          <entry key="js" value="3870" />
           <entry key="json" value="16" />
           <entry key="txt" value="731" />
         </counts>
@@ -50,7 +47,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="16" />
-          <entry key="JavaScript" value="3548" />
+          <entry key="JavaScript" value="3870" />
           <entry key="PLAIN_TEXT" value="731" />
         </counts>
       </usages-collector>
@@ -85,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blockchain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1018">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="-7">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -103,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/blockchain.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            <state relative-caret-position="1018">
+              <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -146,9 +143,9 @@
         <option value="$PROJECT_DIR$/src/package.json" />
         <option value="$PROJECT_DIR$/src/block.test.js" />
         <option value="$PROJECT_DIR$/src/block.js" />
-        <option value="$PROJECT_DIR$/src/blockchain.test.js" />
         <option value="$PROJECT_DIR$/Information/block.txt" />
         <option value="$PROJECT_DIR$/src/blockchain.js" />
+        <option value="$PROJECT_DIR$/src/blockchain.test.js" />
       </list>
     </option>
   </component>
@@ -172,9 +169,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="326" />
-    <option name="y" value="66" />
+    <option name="y" value="412" />
     <option name="width" value="1434" />
-    <option name="height" value="1350" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -295,7 +292,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554518507481</updated>
       <workItem from="1554518509282" duration="4970000" />
-      <workItem from="1554595613076" duration="2183000" />
+      <workItem from="1554595613076" duration="2709000" />
     </task>
     <servers />
   </component>
@@ -323,7 +320,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7153000" />
+    <option name="totallyTimeSpent" value="7679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="326" y="66" width="1434" height="1350" extended-state="0" />
@@ -373,24 +370,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/block.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/block.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-163">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blockchain.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -401,10 +384,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/block.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/blockchain.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blockchain.test.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1018">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
         </state>
       </provider>
     </entry>
