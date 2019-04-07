@@ -21,3 +21,6 @@ blockchain, and to the Proof of Work needed to verify and add a block to the cha
 The blockchain with the longest chain is considered correct.
 
 This block chain relies on the proof of work algorithm.
+
+To solve the problem of distributed computation, the block chain will always prefer the longest
+chain presented to in the case of conflicts.
